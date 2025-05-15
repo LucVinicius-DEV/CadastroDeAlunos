@@ -1,63 +1,55 @@
-![Banner](./banner.png)
+![Banner](https://github.com/LucVinicius-DEV/CadastroDeAlunos/blob/main/banner.png)
 
-# 🧱 Cadastro de Alunos com Java
+# 🧑‍🎓 Cadastro de Alunos em Java
 
-Repositório com exercício prático de cadastro e gerenciamento de alunos em Java, utilizando conceitos de construtores, sobrecarga, encapsulamento, validação de dados e `ArrayList`.
-
----
-
-## ✨ O que você vai encontrar aqui
-
-- Cadastro de alunos com nome, matrícula, notas e situação;
-- Cálculo da média do aluno e validação da situação (Aprovado ou Reprovado);
-- Evita duplicidade de matrícula ao adicionar alunos;
-- Utilização de `ArrayList` para armazenar os registros dos alunos;
-- Métodos separados para melhor organização do código.
+Repositório contendo um projeto didático desenvolvido em Java com foco na manipulação de listas de alunos, leitura de dados via terminal e apresentação de resultados. O exercício reforça conceitos como entrada de dados, estrutura de classes e uso de listas em Java.
 
 ---
 
-## 📚 Funcionalidades
+## 📚 Projeto disponível
 
-1. **Cadastro de Alunos**  
-   Permite adicionar novos alunos, com ou sem notas iniciais.
-
-2. **Cálculo da Média e Situação**  
-   Calcula a média das notas e define a situação do aluno (Aprovado ou Reprovado).
-
-3. **Alteração de Notas**  
-   Permite alterar as notas do aluno após o cadastro inicial.
-
-4. **Validação de Matrícula**  
-   Garante que não haja duplicidade de matrícula ao adicionar um novo aluno.
+- [CADASTRO DE ALUNOS](./src) — Aplicação que permite ao usuário inserir dados de alunos (nome, idade, nota) e exibe a lista completa ao final da execução.
 
 ---
 
-## 🧠 Conceitos aplicados
+## 🛠️ Tecnologias Utilizadas
 
-- Construtores e sobrecarga
-- Encapsulamento de dados
-- Métodos de validação e cálculo
-- Utilização de `ArrayList`
-- Programação orientada a objetos em Java
+- Java
+- IntelliJ IDEA (IDE de desenvolvimento)
+- Git & GitHub
 
 ---
 
-## ▶️ Como executar os códigos
+# 📝 Cadastro de Alunos
 
-1. Abra o terminal na pasta do projeto.
-2. Compile o arquivo desejado.
+Projeto criado com o objetivo de exercitar entrada de dados com `Scanner`, estrutura de classes simples e listas dinâmicas com `ArrayList`.
+
+## ✨ Funcionalidades
+
+- Inserção dinâmica de alunos com dados personalizados.
+- Armazenamento dos alunos em uma lista (`ArrayList`).
+- Exibição completa dos dados de cada aluno após o cadastro.
+- Base estruturada para futuras expansões (ex: filtros, ordenação, média de notas).
+
+---
+
+## ▶️ Como executar
+
+1. Clone este repositório ou abra diretamente em seu ambiente Java.
+2. Acesse o diretório `/src` e abra o arquivo `Main.java`.
 3. Execute o programa.
+4. Digite os dados conforme solicitado no terminal.
+5. Ao finalizar, o sistema exibirá a lista de alunos cadastrados.
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com a mentoria da Luna.
+Desenvolvido por Lucas Vinícius com apoio da Luna, como parte da evolução nos estudos de Java e manipulação de dados em estruturas dinâmicas.
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucasviniciusdev/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-LucVinicius--DEV-black?style=flat&logo=github)](https://github.com/LucVinicius-DEV)
 
 ---
 
-## ⭐ Gostou do projeto?
-
-Deixe uma estrela no repositório e acompanhe o progresso no LinkedIn e GitHub!
+Se você gostou deste projeto, deixe um ⭐ para apoiar o repositório e acompanhe o progresso pelo [LinkedIn](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/) e pelo [GitHub](https://github.com/LucVinicius-DEV)!
